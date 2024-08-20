@@ -1,0 +1,19 @@
+import = [ "C:/Users/abir/AppData/Roaming/alacritty/catppuccin-mocha.toml" ]
+working_directory = "C:/Users/abir"
+
+[shell]
+program = "C:/Program Files/PowerShell/7/pwsh.exe /nologo"
+
+[font]
+normal = { family = "JetbrainsMono Nerd font", style = "Regular" }
+bold = { family = "JetbrainsMono Nerd font", style = "Bold" }
+italic = { family = "JetbrainsMono Nerd font", style = "Italic" }
+bold_italic = { family = "JetbrainsMono Nerd font", style = "Bold Italic" }
+size = 15
+
+[window]
+# dimensions = { columns = 120, lines = 25 }
+decorations = "none"
+opacity = 1
+dynamic_padding = true
+startup_mode = "maximized"
